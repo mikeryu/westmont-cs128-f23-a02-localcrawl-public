@@ -5,6 +5,11 @@
 
 *Assistant Professor* Mike Ryu (mryu@westmont.edu) 
 
+## Demo Confirmation Code
+```
+TODO: Place the code you have received from your instructor here.
+```
+
 ## Autor Information
 * **Name**: Boaty McBoatface
 * **Email(s)**: bmcboatface@westmont.edu
